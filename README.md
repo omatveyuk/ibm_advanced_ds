@@ -1,5 +1,5 @@
-# ibm_advanced_ds
-## IBM Coursera Advanced Data Science Capstone. Breast Cancer Classification.
+# Breast Cancer Classification.
+## IBM Coursera Advanced Data Science Capstone. 
 According to the American Cancer Society (ACS), breast cancer is the most common cancer in American women, except for skin cancers. Today, a woman’s chance of getting breast cancer is 1 in 8 chances. The chance that a woman will die from breast cancer is about 2.6%, or a 1 in 38 chance. Breast cancer still causes about 685.000 deaths annually in the world. Breast cancer research opens the door to finding better ways to prevent, detect, and treat breast cancer. 
 Early detection, often through screening (mammogram, breast ultrasound, MRI), can catch the disease when it is most treatable. Its detection ability depends on tumor size and breast tissue density. 
 
